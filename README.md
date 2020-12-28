@@ -12,3 +12,15 @@ The code is written in Julia and based on the machine learning library [FLux](ht
 * *models/*                - pretrained models discussed in the paper
 
 If you have any questions, feel free to open an issue or send me an email: <friederike.metz@oist.jp>.
+
+If you use our code/models for your research, consider citing our paper:
+```
+@misc{metz2020deep,
+      title={Deep learning based quantum vortex detection in atomic Bose-Einstein condensates}, 
+      author={Friederike Metz and Juan Polo and Natalya Weber and Thomas Busch},
+      year={2020},
+      eprint={2012.13097},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.quant-gas}
+}
+```
