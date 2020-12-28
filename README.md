@@ -1,8 +1,8 @@
 # Deep learning based quantum vortex detection in atomic Bose-Einstein condensates
 
-This repository contains the models and code used for the paper [Deep learning based quantum vortex detection in atomic Bose-Einstein condensates](https://arxiv.org/abs/2012.13097).
+This repository contains the models and code used for the paper [Deep learning based quantum vortex detection in atomic Bose-Einstein condensates](https://arxiv.org/abs/2012.13097) (arXiv:2012.13097).
 
-The code is written in Julia and based on the machine learning library [FLux](https://fluxml.ai/Flux.jl/stable/).
+The code is provided in the form of [Jupyter Notebooks](https://jupyter.org/) using the [Julia language](https://julialang.org/) and the machine learning library [Flux](https://fluxml.ai/Flux.jl/stable/). The notebooks require [IJulia](https://github.com/JuliaLang/IJulia.jl).
 
 ### Content
 * *vortex_detection.ipynb* - jupyter notebook used for training and evaluating the ML based vortex detector
