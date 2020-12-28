@@ -5,8 +5,9 @@ This repository contains the models and code used for the paper [Deep learning b
 The code is written in Julia and based on the machine learning library [FLux](https://fluxml.ai/Flux.jl/stable/).
 
 ### Content
-* *vortex_detection.ipynb* - jupyter notebook used for training and evaluating the machine learning models
-* *utils.jl*               - additional functions used in the notebook
+* *vortex_detection.ipynb* - jupyter notebook used for training and evaluating the ML based vortex detector
+* *vortex_detection_classification.ipynb* - slightly modified version where the circulation direction of a vortex is also classified
+* *utils.jl*               - additional functions used in the notebooks
 * *example_data/*          - example images to run the notebook
 * *models/*                - pretrained models discussed in the paper
 
